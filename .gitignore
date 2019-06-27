@@ -1,0 +1,13 @@
+# Ignore some file
+target/
+test-output/
+.idea
+TestReport/
+.settings/
+/.classpath
+.project
+regression.xml
+Report
+server.log
+**/execution/local/*.xml
+**/data/local/*.json
